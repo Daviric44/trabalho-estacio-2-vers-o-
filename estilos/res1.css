@@ -90,6 +90,11 @@ iframe {
   margin: 2rem 0;
 }
 
+#titulo-cardapio{
+  text-align: center;
+   font-size: 2rem;
+
+}
 .menu-item {
   display: flex;
   justify-content: space-between;
@@ -141,13 +146,16 @@ footer {
   font-size: 30px;
   font-weight: 600;
   color: #2d6a4f;
-  text-align: center;
   position: relative;
   margin: 40px 0 25px 0;
   letter-spacing: 1px;
 
-
+  border-bottom: 2.5px solid #2d6a4f;
+  border-radius: 2px;
 }
+
+
+
 
 
 a.escolha {
