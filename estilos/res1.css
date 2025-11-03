@@ -191,7 +191,7 @@ box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
     width: 20em;
     height: 20em;
     border-radius: 20px;
-
+    
   
   }
  .icone_tradução {
@@ -210,11 +210,11 @@ box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
 
 
 .black {
-  background-color: #0D0D0D;
+  background-color: #121212;
 }
 
 .darkModeContrast {
-  background-color: #121212;
+  background-color: #202020;
 }
 
 .darkModeMainText {
@@ -238,3 +238,5 @@ box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
 .fotos.darkModeContrast {
     background-color: #141212; 
 }
+
+
